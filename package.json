@@ -1,0 +1,23 @@
+{
+  "name": "Basic-Express",
+  "version": "1.0.0",
+  "description": "Percobaan kali ini kita akan mencoba salah satu framwork dari nodejs yakni express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izon-masuara/Basic-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izon-masuara/Basic-Express/issues"
+  },
+  "homepage": "https://github.com/izon-masuara/Basic-Express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
